@@ -1,5 +1,7 @@
 # Samhitha Mupharaphu's First CS193 Homework
 Some things I like about CS193 include:
+- Bulleted
+- List
 - The TAs
 - The classroom
 - The things we learn
